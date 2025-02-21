@@ -1,0 +1,138 @@
+* {
+    font-family: 'Arial Narrow';
+}
+
+h1{
+    width: 380px;
+    height: 90px;
+    font-size: 49px;
+    position: relative;
+    z-index: 2;
+    left: 32px;
+}
+.a1 {
+    color: rgb(14, 14, 41);
+}
+
+.c,
+.b,
+.g {
+    background-color: rgb(14, 14, 41);
+}
+
+.c,
+.b,
+.e,
+.f {
+    color: aliceblue;
+}
+
+.b{
+    position: relative;
+    left: 280px;
+    bottom: 690px;
+    padding: 8px 1px 1px 8px;
+    width: 110px;
+    height: 30px
+}
+
+.c{
+    z-index: 1;
+    padding-right: 5px;
+    padding-bottom: 15px;
+    width: 170px;
+    height: 260px;
+    position: relative;
+    left: 120px;
+    bottom: 310px;
+    border: 15px solid ;
+    border-radius: 15px
+}
+
+.d {
+    font-size: 21px;
+    position: relative;
+    bottom: 18px;
+    right: 26px;
+    padding-left: 42px;
+    padding-top: 15px;
+    border-bottom: 1px solid;
+    height: 49px;
+    width: 100px
+}
+
+.e img {
+    vertical-align: middle;
+}
+
+.f {
+    padding-left: 13px;
+    padding-bottom: 7px;
+}
+
+.f img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.g {
+    width: 200px;
+    border-top-right-radius: 15px;
+    font-size: 20px;
+    position: relative;
+    bottom: 897px;
+}
+
+img[src*='lappyy 1.png'] {
+    height: 350px;
+    width: 485px;
+    position: relative;
+    bottom: 735px;
+    right: 235px;
+}
+
+img[src*='iphone pics'] {
+    height: 380px;
+    width: 180px;
+    position: relative;
+    left: 240px;
+    top: 20px;
+}
+
+ul li {
+    list-style: none;
+    position: relative;
+    bottom: 25px;
+    right: 26px;
+    width: 200px;
+    font-size: 23px;
+}
+
+.w {
+    font-weight: bold;
+    position: relative;
+    left: 330px;
+    bottom: 830px;
+    width: 90px;
+}
+
+#w {
+    font-weight: lighter;
+}
+
+.p {
+    font-weight: bold;
+    position: relative;
+    bottom: 840px;
+    left: 10px;
+    height: 100px;
+    width: 30px;
+    font-size: 30px;
+    
+}
+.image1 {
+    background-image: url('/re-create/images/iphone\ pics.jpg');
+    height: 500px;
+    width: 300px;
+    background-size: cover;
+}
