@@ -2,16 +2,11 @@
     font-family: 'Arial Narrow';
     border: 1px solid red;
 }
- body {
-    height: 100%;
-    width: 100%;
- }
- 
+
 h1{
-    max-width: 100%;
-    min-width: 90%;
+    width: 1155px;
     height: 350px;
-    font-size: 158px;
+    font-size: 148px;
     position: relative;
     bottom: 80px;
     left: 70px;
@@ -122,9 +117,9 @@ img[src*='lappyy 1.png'] {
 
 img[src*='iphone pics'] {
     height: 880px;
-    width: 550px;
+    width: 500px;
     position: relative;
-    left: 780px;
+    left: 800px;
     bottom: 60px;
 }
 
